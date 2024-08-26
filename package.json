@@ -1,0 +1,12 @@
+{
+  "name": "week-12-b",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+  "start": "json-server --watch db.json --port 3000"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

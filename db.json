@@ -1,0 +1,7 @@
+{
+    "entities": [
+      { "id": 1, "name": "Sample Entity 1", "description": "This is a sample description 1" },
+      { "id": 2, "name": "Sample Entity 2", "description": "This is a sample description 2" }
+    ]
+  }
+  
